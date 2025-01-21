@@ -20,13 +20,20 @@ export default function Home() {
           </Helmet>
         </div>
 
+
+
       <Banner></Banner>
       <Section_title></Section_title>
+
+
 
       <Order_Card_Swiper></Order_Card_Swiper>
       <PopularMenu></PopularMenu>
 
+
       <SecondMenu></SecondMenu>
+
+      
       <Testimonials></Testimonials>
     </div>
   )
